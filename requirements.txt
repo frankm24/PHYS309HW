@@ -1,0 +1,7 @@
+ipykernel
+jupyter
+numpy
+matplotlib
+scipy
+scipy-stubs
+pillow
